@@ -1,4 +1,4 @@
-# parking-control
+# parking-control (Controle de Vagas)
 
 Spring Boot | Curso Completo 2022
 É um vídeo onde exploro tanto a parte teórica quanto prática do Spring, desde a base do Spring Framework, Inversão de Controle, 
