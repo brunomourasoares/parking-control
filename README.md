@@ -11,3 +11,7 @@ Preparação Ambiente:
 >- Postman
 >- PgAdmin (Postgres)
 >- IDE (IntelliJ, STS, Eclipse, VSCode, etc)
+
+ https://www.michellibrito.com/
+ Canal no YouTube: https://www.youtube.com/@MichelliBrito
+ Canal no Telegram: https://t.me/michellibritojava
